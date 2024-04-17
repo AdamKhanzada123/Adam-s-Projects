@@ -1,1 +1,1 @@
-Repository containg all significant Porjects worked on by Adam Khanzada
+Repository containing all significant Projects worked on by Adam Khanzada
